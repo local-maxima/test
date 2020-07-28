@@ -5,3 +5,7 @@ this is scraping
 
 
 this is kezword in contet analysis
+
+
+
+now we add Natural Language Processing
